@@ -168,7 +168,6 @@ const flags = [
     { country: "Sweden", image: "https://flagcdn.com/w320/se.png", capital: "Stockholm", continent: "Europe" },
     { country: "Switzerland", image: "https://flagcdn.com/w320/ch.png", capital: "Bern", continent: "Europe" },
     { country: "Syria", image: "https://flagcdn.com/w320/sy.png", capital: "Dimashq", continent: "Asia" },
-    { country: "Taiwan", image: "https://flagcdn.com/w320/tw.png", capital: "Taipei", continent: "Asia" },
     { country: "Tajikistan", image: "https://flagcdn.com/w320/tj.png", capital: "Dušanbe", continent: "Asia" },
     { country: "Tanzania", image: "https://flagcdn.com/w320/tz.png", capital: "Dodoma", continent: "Africa" },
     { country: "Thailand", image: "https://flagcdn.com/w320/th.png", capital: "Bangkok", continent: "Asia" },
